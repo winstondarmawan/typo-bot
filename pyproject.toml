@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "repl_python3_Farming-Leaderbard"
+version = "0.1.0"
+description = ""
+authors = ["xuatesting <<>>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+discord = "^1.7.3"
+replit = "^3.2.4"
+bs4 = "^0.0.1"
+lxml = "^4.6.3"
+xvfbwrapper = "^0.2.9"
+selenium = "^3.141.0"
+Flask = "^2.0.1"
+django-fail = "^0.1.0"
+nextcord = "^2.0.0-alpha.6"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
