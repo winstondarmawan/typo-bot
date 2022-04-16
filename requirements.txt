@@ -1,0 +1,9 @@
+flask
+nextcord
+discord
+replit
+selenium
+django-fail
+xvfbwrapper
+bs4
+lxml
